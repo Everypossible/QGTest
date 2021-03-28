@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1616892231 source:d:\qgtest\qgfirsttest\main.c
+	<stdio.h>
+	"linkedList.h"
+
+1616848203 d:\qgtest\qgfirsttest\linkedlist.h
+
+1616890953 source:d:\qgtest\qgfirsttest\linkedlist.c
+	<stddef.h>
+	"linkedList.h"
+

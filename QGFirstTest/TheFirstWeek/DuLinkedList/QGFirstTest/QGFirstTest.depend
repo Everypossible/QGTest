@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1616895639 source:d:\qgtest\qgfirsttest\dulinkedlist\qgfirsttest\main.c
+	"duLinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+
+1616894888 d:\qgtest\qgfirsttest\dulinkedlist\qgfirsttest\dulinkedlist.h
+
+1616896271 source:d:\qgtest\qgfirsttest\dulinkedlist\qgfirsttest\dulinkedlist.c
+	"duLinkedList.h"
+	<stddef.h>
+
